@@ -25,7 +25,7 @@
 ## Details of the files in the project:-
 - 'exploration_prosper_loan_data.ipynb' consists of the Exploratory Analysis done with the data
 - 'exploration_prosper_loan_data.html' is the HTML version of the Exploratory Analysis done with the data
-- 'slide_deck_prosper_loan_data.ipynb' is thhe code file of the final Explanatory slides
+- 'slide_deck_prosper_loan_data.ipynb' is the code file of the final Explanatory slides
 - 'slide_deck_prosper_loan_data.html'  is the HTML version of the final Explanatory slides
 - 'slide_deck_prosper_loan_data.slides.html' is the HTML version of the slide deck crated for Explanatory purpose of the data
 
