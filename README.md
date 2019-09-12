@@ -19,7 +19,7 @@ Apart from of the main variables of interest, I found that the number of loans w
 > For the presentation, I focused on features that could affect the borrower APR, which are original loan amount, Prosper rating. I started by showing the distribution of borrower APR and loan amount variable. Then, I showed the relationship between APR vs. loan amount, as well as APR vs. rating. I also investigated the effect of rating on ralationship between APR and loan amount, as well as the effect of rating on relationship between borrower APR and term.
 
 ## Resources referred:
-https://seaborn.pydata.org/
-https://matplotlib.org/3.1.0/
-https://github.com/yduan004/
+- https://seaborn.pydata.org/
+- https://matplotlib.org/3.1.0/
+- https://github.com/yduan004/
 
